@@ -1,0 +1,40 @@
+List<String> imgExt = [
+  "apng",
+  "avif",
+  "gif",
+  "jpg",
+  "jpeg",
+  "jfif",
+  "pjpeg",
+  "pjp",
+  "png",
+  "svg",
+  "webp"
+];
+List<String> vidExt = [
+  "webm",
+  "mpg",
+  "mp2",
+  "mpeg",
+  "mpe",
+  "mpv",
+  "ogg",
+  "mp4",
+  "m4p",
+  "m4v",
+  "avi",
+  "wmv",
+  "mov",
+  "qt",
+  "flv",
+  "swf",
+  "avchd"
+];
+List<String> audExt = [
+  "m4a",
+  "flac",
+  "mp3",
+  "wav",
+  "wma",
+  "aac",
+];
